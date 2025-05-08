@@ -1,0 +1,35 @@
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Kütüphane kayıt sistemi.exe.config
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Kütüphane kayıt sistemi.exe
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Kütüphane kayıt sistemi.pdb
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane kayıt sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane_kayıt_sistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane kayıt sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane kayıt sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane kayıt sistemi.exe
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane kayıt sistemi.pdb
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Npgsql.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\Npgsql.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\K_t_phan.B8B6306B.Up2Date
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane_kayıt_sistemi.Formgiris.resources
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane_kayıt_sistemi.Formkayıt.resources
+C:\Users\Lenovo\source\repos\Kütüphane kayıt sistemi\Kütüphane kayıt sistemi\obj\Debug\Kütüphane_kayıt_sistemi.FormMain.resources
